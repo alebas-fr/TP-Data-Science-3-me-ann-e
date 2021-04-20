@@ -1,0 +1,13 @@
+Summary
+-------
+This dataset is a modified version of the Beeradvocate dataset of beer ratings (https://data.world/socialmediadata/beeradvocate). It contains average ratings of a subset of beers of the original dataset that were rated by at least 5 consumers.
+
+Attributes
+----------
+Each beer is rated on five criteria (in this order in the file):
+ - appearance,
+ - aroma,
+ - palate,
+ - taste,
+ - overall.
+Ratings are measured on a scale of 1 to 5.
